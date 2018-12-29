@@ -38,5 +38,5 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 4. (Optional) Run DqnTrainer.py to train the agent.
 
-5. Use the Navigation.ipynb notebook to visualize the results  
+5. Use the Report.ipynb notebook to visualize the results  
 
